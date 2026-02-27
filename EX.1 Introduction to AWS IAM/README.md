@@ -1,6 +1,6 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
-reg no:212223220091
+
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
@@ -71,6 +71,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** SALINI A and **Reg No:** 212223220091
 **Course:** Introduction to Cloud Computing  
 
