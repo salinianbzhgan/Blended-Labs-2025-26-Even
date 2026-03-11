@@ -2,17 +2,15 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Salini A
+* **Register Number**: 212223220091
 
----
 
 ## Objective
 
 The objective of this experiment is to understand how to design and configure a basic network infrastructure in AWS using a Virtual Private Cloud (VPC). This lab focuses on creating a VPC with a public subnet, configuring an Internet Gateway and route table, launching an EC2 instance, and hosting a simple web server that can be accessed over the internet.
 
----
+
 
 ## Prerequisites
 
@@ -87,33 +85,30 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. The first step was to create a vpc
+2. Then subnets was created and configured inside the VPC
+3. Attached internet gateway
+4. Configured route tables
+5. EC2 instance was launched
+6. Finally configured the web server
 
----
+
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1450" height="663" alt="image" src="https://github.com/user-attachments/assets/0e2cb30a-5f7b-4958-aa01-bc240f134c8e" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
+<img width="1446" height="632" alt="image" src="https://github.com/user-attachments/assets/2d9ef7eb-5276-41a7-a8af-55fbb00f9dfb" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1438" height="530" alt="image" src="https://github.com/user-attachments/assets/609c07b7-f23b-4d6b-aeaf-526c2d700a3f" />
 
----
 
 ## Result 
 
